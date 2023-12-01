@@ -6,8 +6,6 @@
 <a target="_blank" href="https://t.me/xzudo"><img src="https://raw.githubusercontent.com/zudo/zudo/main/telegram.svg" width=38 height=38 title="xzudo"></a>
 </p>
 
-</br>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zudo&layout=compact&theme=github_dark&locale=ja&bg_color=000fff00&border_color=000fff00&custom_title=ズド&title_color=000&hide_title=true" title="Most Used Languages">
 </p>
