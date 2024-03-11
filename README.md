@@ -11,5 +11,5 @@
 -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zudo&layout=compact&theme=github_dark&locale=en&bg_color=000fff00&border_color=000fff00&title_color=000" title="Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zudo&layout=compact&theme=github_dark&locale=en&bg_color=000fff00&border_color=000fff00&title_color=000&custom_text=<username>'s languages" title="Languages">
 </p>
