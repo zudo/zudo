@@ -48,3 +48,4 @@
 ![Litecoin](https://img.shields.io/badge/-Litecoin-black?logo=litecoin&style=flat)
 ![Monero](https://img.shields.io/badge/-Monero-black?logo=monero&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?logo=tailwindcss&style=flat)
+![Vim](https://img.shields.io/badge/-Vim-black?logo=vim&style=flat)
