@@ -51,3 +51,6 @@
 ![Vim](https://img.shields.io/badge/-Vim-black?logo=vim&style=flat)
 ![Steam](https://img.shields.io/badge/-Steam-black?logo=steam&style=flat)
 ![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens&style=flat)
+![LLM](https://img.shields.io/badge/-LLM-black?style=flat)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-black?style=flat)
+![RAG](https://img.shields.io/badge/-RAG-black?style=flat)
