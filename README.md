@@ -49,3 +49,5 @@
 ![Monero](https://img.shields.io/badge/-Monero-black?logo=monero&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?logo=tailwindcss&style=flat)
 ![Vim](https://img.shields.io/badge/-Vim-black?logo=vim&style=flat)
+![Steam](https://img.shields.io/badge/-Steam-black?logo=steam&style=flat)
+![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens&style=flat)
