@@ -1,6 +1,5 @@
-# Hi, I'm Zudo
+# Hi
 
-## Languages and Tools
 ![Rust](https://img.shields.io/badge/-Rust-black?logo=rust&style=flat)
 ![Go](https://img.shields.io/badge/-Go-black?logo=go&style=flat)
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&style=flat)
