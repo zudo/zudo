@@ -53,3 +53,4 @@
 ![LLM](https://img.shields.io/badge/-LLM-black?style=flat)
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-black?style=flat)
 ![RAG](https://img.shields.io/badge/-RAG-black?style=flat)
+![SQL](https://img.shields.io/badge/-SQL-black?logo=sqlite&style=flat)
