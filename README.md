@@ -54,3 +54,4 @@
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-black?style=flat)
 ![RAG](https://img.shields.io/badge/-RAG-black?style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-black?logo=sqlite&style=flat)
+![Chess Engine](https://img.shields.io/badge/-Chess%20Engine-black?logo=chessdotcom&style=flat)
